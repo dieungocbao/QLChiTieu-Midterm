@@ -1,0 +1,12 @@
+﻿  QLChiTieu.cpp
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(344): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(345): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(346): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(347): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(348): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(493): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(494): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(495): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(496): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dieungocbao\source\repos\qlchitieu\qlchitieu\qlchitieu.cpp(497): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  QLChiTieu.vcxproj -> C:\Users\dieungocbao\source\repos\QLChiTieu\Debug\QLChiTieu.exe

@@ -1,0 +1,11 @@
+Ăn uống,an sang,20000
+Di chuyển,grab,58000
+Nhà cửa,tien thue tro,1000000
+Xe cộ,do xang,60000
+Nhu yếu phẩm,kem đánh răng,23000
+Dịch vụ,3g mobi,50000
+Ăn uống,Ăn trưa,100000
+Nhu yếu phẩm,mua giày,1270000
+Ăn uống,,123424
+Ăn uống,,5345
+Ăn uống,,534
